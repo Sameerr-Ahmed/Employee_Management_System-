@@ -149,6 +149,3 @@ Feel free to explore the code and reach out for collaboration or feedback.
 ---
 
 **Thank you for reviewing this project!**
-```
-
----
